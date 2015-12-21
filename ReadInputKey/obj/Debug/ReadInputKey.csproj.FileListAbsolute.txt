@@ -1,0 +1,5 @@
+c:\users\heleochoa\documents\visual studio 2015\Projects\ReadInputKey\ReadInputKey\obj\Debug\ReadInputKey.csprojResolveAssemblyReference.cache
+c:\users\heleochoa\documents\visual studio 2015\Projects\ReadInputKey\ReadInputKey\bin\Debug\ReadInputKey.dll
+c:\users\heleochoa\documents\visual studio 2015\Projects\ReadInputKey\ReadInputKey\bin\Debug\ReadInputKey.pdb
+c:\users\heleochoa\documents\visual studio 2015\Projects\ReadInputKey\ReadInputKey\obj\Debug\ReadInputKey.dll
+c:\users\heleochoa\documents\visual studio 2015\Projects\ReadInputKey\ReadInputKey\obj\Debug\ReadInputKey.pdb
